@@ -1,5 +1,5 @@
 ---
-title: Lesson Template
+title: My Title
 layout: lesson-content
 ---
 
